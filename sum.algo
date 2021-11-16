@@ -1,0 +1,11 @@
+ALGORITHM SUM
+VAR
+    n,i:INTEGER
+    S:INTEGER=0
+BEGIN
+    Read(n)
+    FOR i FROM 1 TO n STEP 1  DO
+        s:=S=1
+    END_FOR
+    Write(S)
+END
